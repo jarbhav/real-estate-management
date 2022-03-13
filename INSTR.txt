@@ -1,0 +1,49 @@
+For registering
+
+PlotID - 13
+Rtype - PLOT
+Rfor - Buy
+
+PlotID - 8
+Rtype - FLAT
+Rfor - RENT
+
+Filter on basis of facilties
+
+t f f t t
+t t t t t
+
+Property for rent based on locality, rating and rent cost
+
+locality - Behind School
+rent - 15000
+rating - 7
+
+Filter by locality price
+
+locality - Behind School
+Price - 500000 
+
+View Price Based on locality and facilities
+
+locality - Near Higway
+t f f t t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
